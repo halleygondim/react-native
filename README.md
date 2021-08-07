@@ -5,8 +5,8 @@ Alguns exemplos de React Native
 https://react-native.rocketseat.dev/android/windows/
 
 Uma vez configurado temos **duas opções** para criação do projeto.
--Via init Expo ou  
--init React-Native
+-Via Expo ou  
+-CLI React-Native
 
 
 Obs. caso tenha configurado um emulador execute-o antes de iniciar qualquer comando abaixo.
@@ -16,7 +16,7 @@ No terminal(Linux) ou CMD(Windows) execute os seguintes comandos
 
 **OPÇÃO 1**
 
-**Via Init React-Native**
+**Via CLI React-Native**
 
 ```C:\Projetos\React Native>npx react-native init meuPrimeiroApp```
 
@@ -27,7 +27,7 @@ Entre dentro da pasta (nome do projeto que acabou de criar)
 
 **OPÇÃO 2**
 
-**Via Init Expo**
+**Via Expo**
 
 ```expo init appOlaMundo```
 
