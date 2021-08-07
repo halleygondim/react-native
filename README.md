@@ -5,6 +5,7 @@ Alguns exemplos de React Native
 https://react-native.rocketseat.dev/android/windows/
 
 Uma vez configurado temos **duas opções** para criação do projeto.
+
 -Via Expo ou  
 -CLI React-Native
 
