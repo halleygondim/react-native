@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "appAxios",
+    "slug": "appAxios",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "appAxios"
+}
