@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "manipularMapa",
+    "slug": "manipularMapa",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "manipularMapa"
+}
