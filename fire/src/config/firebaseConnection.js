@@ -3,6 +3,7 @@ import { getFirestore } from 'firebase/firestore/lite';
 
 
 const firebaseConfig = {
+   /*FAÇA A SUBSTITUIÇÃO PELA SUA CONFIGURAÇÃO*/
    apiKey: "AIzaSyBxzmf2ldbBx6ywDbEh6SF9L-cyGKy42BM",
   authDomain: "auth00-130b0.firebaseapp.com",
   projectId: "auth00-130b0",
