@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "fire",
+    "slug": "fire",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "fire"
+}
